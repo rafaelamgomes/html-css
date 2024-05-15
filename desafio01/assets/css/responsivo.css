@@ -1,0 +1,21 @@
+@media screen and (max-width: 900px){
+    header{
+        display: none;
+    }
+    
+    .button-navegacao{
+        width: 91px;
+        height: 31px;
+    }
+
+    p {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: center;
+
+    }
+}
